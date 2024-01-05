@@ -14,6 +14,7 @@ A simple to-do list app created using React.js,Bootstrap and Node.js.
 5. Finally,run the application on the browser using the npm start command
 
 **Features**
+
 !. Add tasks
 
 2. Toggle task completion
