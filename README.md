@@ -1,7 +1,7 @@
 # todolistapp-react
 A simple to-do list app created using React.js,Bootstrap and Node.js.
 
-#How to use this application:
+**How to use this application:**
 
 1. First make sure that you have Node.js and npm installed on your device.
 
@@ -13,7 +13,7 @@ A simple to-do list app created using React.js,Bootstrap and Node.js.
 
 5. Finally,run the application on the browser using the npm start command
 
-#Features
+**Features**
 !. Add tasks
 
 2. Toggle task completion
