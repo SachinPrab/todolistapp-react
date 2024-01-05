@@ -15,7 +15,7 @@ A simple to-do list app created using React.js,Bootstrap and Node.js.
 
 **Features**
 
-!. Add tasks
+1. Add tasks
 
 2. Toggle task completion
 
